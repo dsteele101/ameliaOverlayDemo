@@ -1,8 +1,8 @@
 {
-  "originUrl": "https://vertiv.demo.amelia.com/",
-  "ameliaUrl": "https://vertiv.demo.amelia.com/Amelia/ui/vertiv/?domainCode=vertiv",
-  "chatUrl": "https://vertiv.demo.amelia.com/Amelia/ui/vertiv/",
-  "parentUrl": "https://www.vertiv.com",
+  "originUrl": "https://us.demo.amelia.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=derricksteele",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
+  "parentUrl": "https://www.xcenda.com/",
   "actions": {
     "nav_pst5": {
       "url": "https://www.vertiv.com/en-us/products-catalog/critical-power/uninterruptible-power-supplies-ups/liebert-pst5-ups/"
