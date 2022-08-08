@@ -1,0 +1,34 @@
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <script type="module" src="page.js"></script>
+</head>
+<body>
+<div>
+    <div class="chat-overlay-input-submit-header"><span></span></div>
+    <button id="chatOverlayInputSubmit" type="button" hidden="hidden"></button>
+    <button id="chatOverlayInputSubmit2" type="button" hidden="hidden"></button>
+</div>
+<div class="chat-overlay chat-overlay-closed">
+    <div class="chat-overlay-wrapper">
+        <div class="chat-overlay-header-mobile close">
+            <img class="close"
+                 src="img/close.png"
+                 alt="toggle chat overlay"/>
+        </div>
+        <iframe id="receiver" class="close" src=""
+                style="border: none" width="100%" height="100%" allow="geolocation; microphone; camera">
+            <p>Your browser does not support iframes.</p>
+        </iframe>
+        <div class="chat-overlay-header">
+            <img class="chat-overlay-header-img close"
+                 src="img/close.png"
+                 alt="toggle chat overlay"/>
+            <img class="chat-overlay-header-img open"
+                 src="img/icon.png"
+                 alt="toggle chat overlay"/>
+        </div>
+    </div>
+</div>
+</body>
+</html>

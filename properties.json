@@ -1,0 +1,26 @@
+{
+  "originUrl": "https://vertiv.demo.amelia.com/",
+  "ameliaUrl": "https://vertiv.demo.amelia.com/Amelia/ui/vertiv/?domainCode=vertiv",
+  "chatUrl": "https://vertiv.demo.amelia.com/Amelia/ui/vertiv/",
+  "parentUrl": "https://www.vertiv.com",
+  "actions": {
+    "nav_pst5": {
+      "url": "https://www.vertiv.com/en-us/products-catalog/critical-power/uninterruptible-power-supplies-ups/liebert-pst5-ups/"
+    },
+    "nav_gxt5": {
+      "url": "https://www.vertiv.com/en-us/products-catalog/critical-power/uninterruptible-power-supplies-ups/vertiv-liebert-gxt5-ups-500-3000va-120v-ups"
+    },
+    "nav_where_to_buy": {
+      "url": "https://partners.vertiv.com/English/directory?AccountCountry=USA&iAmAValue=Installer%20%2F%20Contractor&iAmLooking=Find%20a%20Vertiv%20Partner&stateValue=Georgia"
+    },
+    "nav_lithium": {
+      "url": "https://www.vertiv.com/en-us/products-catalog/critical-power/uninterruptible-power-supplies-ups/vertiv-liebert-psi5-lithium-ion-ups/"
+    },
+    "nav_exl": {
+      "url": "https://www.vertiv.com/en-us/products-catalog/critical-power/uninterruptible-power-supplies-ups/liebert-exl-s1/"
+    },
+    "nav_trienergy": {
+      "url": "https://www.vertiv.com/en-us/products-catalog/critical-power/uninterruptible-power-supplies-ups/liebert-trinergy-cube-ups/"
+    }
+  }
+}
