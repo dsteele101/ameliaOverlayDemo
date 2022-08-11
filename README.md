@@ -61,7 +61,7 @@ def jsonString = '''{
         "componentType": "MessageIntegration",
         "subComponentType": "ChatOverlay",
         "formMessageType": "chatOverlay",
-        "destinationUrl": "https://dsteele101.github.io/vertiv/",
+        "destinationUrl": "https://dsteele101.github.io/ameliaOverlayDemo/",
         "data": {
             "action": "nav_pst5",
             "additionalData": "pst5"
