@@ -79,7 +79,6 @@ This will send a message back to the parent page where a JS listener will await 
 For BPNs, create a task for with "send the integration message jsonString"
 
 For DEB flows, use the following in your script:
-
 ```import groovy.json.JsonOutput
 
 jsonString = JsonOutput.toJson(jsonString)
