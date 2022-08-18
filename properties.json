@@ -2,7 +2,7 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=derricksteele",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
-  "parentUrl": "https://www.citizensenergygroup.com/",
+  "parentUrl": "https://www.citizensenergygroup.com",
   "actions": {
     "nav_payment-options": {
       "url": "https://www.citizensenergygroup.com/My-Home/Billing-Payments/Payment-Options"
