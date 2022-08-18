@@ -2,22 +2,16 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=derricksteele",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
-  "parentUrl": "https://www.xcenda.com/",
+  "parentUrl": "https://www.citizensenergygroup.com/",
   "actions": {
-    "nav_solutions-formularydecisions": {
-      "url": "https://www.xcenda.com/solutions-formularydecisions"
+    "nav_payment-options": {
+      "url": "https://www.citizensenergygroup.com/My-Home/Billing-Payments/Payment-Options"
     },
-    "nav_solutions-formularydecisions-for-health-systems": {
-      "url": "https://www.xcenda.com/solutions-formularydecisions-for-health-systems"
+    "nav_safety": {
+      "url": "https://www.citizensenergygroup.com/My-Home/Safety"
     },
-    "nav_solutions-connecting-payers-and-life-sciences-communities": {
-      "url": "https://www.xcenda.com/solutions-connecting-payers-and-life-sciences-communities"
-    },
-    "nav_solutions-formularydecisions-for-payers": {
-      "url": "https://www.xcenda.com/solutions-formularydecisions-for-payers"
-    },
-    "nav_watch-formularydecisions-for-payers-demo": {
-      "url": "https://www.xcenda.com/watch-formularydecisions-for-payers-demo"
+    "nav_start-service": {
+      "url": "https://www.citizensenergygroup.com/My-Account/New-Customer-Start-Service"
     }
   }
 }
