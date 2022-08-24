@@ -2,7 +2,7 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=derricksteele",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
-  "parentUrl": "https://www.omnisys.com/,
+  "parentUrl": "https://www.omnisys.com/",
   "actions": {
     "nav_patient-communications": {
       "url": "https://www.omnisys.com/our-solutions/patient-communications/"
