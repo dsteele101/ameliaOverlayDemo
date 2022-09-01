@@ -2,13 +2,13 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=derricksteele",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
-  "parentUrl": "https://www.inmar.com//",
+  "parentUrl": "https://www.northerntrust.com/united-states/home/",
   "actions": {
-    "nav_patient-communications": {
-      "url": "https://www.omnisys.com/our-solutions/patient-communications/"
+    "nav_retirement": {
+      "url": "https://www.northerntrust.com/united-states/what-we-do/investment-management/retirement"
     },
-    "nav_automate-pricing": {
-      "url": "https://www.omnisys.com/our-solutions/financial-performance/automated-pricing/"
+    "nav_mutual_funds": {
+      "url": "https://www.northerntrust.com/united-states/what-we-do/investment-management/northern-funds"
     }
   }
 }
