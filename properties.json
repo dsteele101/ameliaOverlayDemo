@@ -2,13 +2,13 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=derricksteele",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
-  "parentUrl": "https://www.dcfs.louisiana.gov/page/snap",
+  "parentUrl": "https://www.northerntrust.com/united-states/home/",
   "actions": {
-    "nav_snap-allotment-amounts": {
-      "url": "https://www.dcfs.louisiana.gov/page/snap-allotment-amounts"
+    "nav_retirement": {
+      "url": "https://www.northerntrust.com/united-states/what-we-do/investment-management/retirement"
     },
-    "nav_electronic-benefits-transfer-ebt": {
-      "url": "https://www.dcfs.louisiana.gov/page/electronic-benefits-transfer-ebt"
+    "nav_mutual_funds": {
+      "url": "https://www.northerntrust.com/united-states/what-we-do/investment-management/northern-funds"
     }
   }
 }
