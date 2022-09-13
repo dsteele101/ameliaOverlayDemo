@@ -1,7 +1,7 @@
 {
-  "originUrl": "https://dinersclub.demo.amelia.com/",
-  "ameliaUrl": "https://dinersclub.demo.amelia.com/Amelia/ui/dinersclub/?domainCode=dinersclub",
-  "chatUrl": "https://dinersclub.demo.amelia.com/Amelia/ui/dinersclub/",
+  "originUrl": "https://us.demo.amelia.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=derricksteele",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
   "parentUrl": "https://www.northerntrust.com/united-states/home/",
   "actions": {
     "nav_retirement": {
