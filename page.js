@@ -111,7 +111,8 @@ function sendMessage(data) {
      */
     console.log('Sending message')
     let receiverElem = document.getElementById('receiver').contentWindow;
-    receiverElem.postMessage(data, ameliaUrl);
+    //receiverElem.postMessage(data, ameliaUrl);
+    window.location.replace(ameliaUrl)
 }
 
 let chatOverlayHeaderElem = document.getElementsByClassName('chat-overlay-header')[0];
