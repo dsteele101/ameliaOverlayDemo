@@ -2,13 +2,13 @@
   "originUrl": "https://dinersclub.demo.amelia.com/",
   "ameliaUrl": "https://dinersclub.demo.amelia.com/Amelia/ui/dinersclub/?domainCode=dinersclub",
   "chatUrl": "https://dinersclub.demo.amelia.com/Amelia/ui/dinersclub/",
-  "parentUrl": "https://www.dinersclub.com.ec/",
+  "parentUrl": "https://www.northerntrust.com/united-states/home/",
   "actions": {
-    "nav_titanium-visa-corporate": {
-      "url": "https://www.dinersclub.com.ec/empresas/tarjetas-corporativas-titanium/titanium-visa-corporate"
+    "nav_retirement": {
+      "url": "https://www.northerntrust.com/united-states/what-we-do/investment-management/retirement"
     },
-    "nav_plan-de-ahorro-diners-club-pad": {
-      "url": "https://www.dinersclub.com.ec/ahorros/plan-de-ahorro-diners-club-pad"
+    "nav_mutual_funds": {
+      "url": "https://www.northerntrust.com/united-states/what-we-do/investment-management/northern-funds"
     }
   }
 }
