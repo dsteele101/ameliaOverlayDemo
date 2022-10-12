@@ -1,7 +1,7 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=derricksteele",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/38?domainCode=derricksteele",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/38",
   "parentUrl": "https://www.theofficegurus.com/",
   "actions": {
     "nav_locations": {
