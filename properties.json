@@ -1,14 +1,14 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/38?domainCode=derricksteele",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/38",
-  "parentUrl": "https://www.theofficegurus.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/45?domainCode=derricksteele",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/45",
+  "parentUrl": "https://www.simonmed.com/",
   "actions": {
-    "nav_locations": {
-      "url": "https://www.theofficegurus.com/locations/"
+    "nav_mri": {
+      "url": "https://www.simonmed.com/services/mri/"
     },
-    "nav_industries": {
-      "url": "https://www.theofficegurus.com/industries/"
+    "nav_pay_bill": {
+      "url": "https://www.simonmed.com/pay-my-bill/"
     }
   }
 }
