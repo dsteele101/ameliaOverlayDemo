@@ -1,8 +1,8 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/45?domainCode=derricksteele",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/45",
-  "parentUrl": "https://www.simonmed.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/wynn/?domainCode=wynn",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/wynn/",
+  "parentUrl": "https://www.wynnlasvegas.com/",
   "actions": {
     "nav_mri": {
       "url": "https://www.simonmed.com/services/mri/"
