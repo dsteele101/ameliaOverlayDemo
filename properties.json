@@ -1,29 +1,17 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/jewelers/chat?domainCode=jewelers",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/jewelers/",
-  "parentUrl": "https://www.jewelersmutual.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
+  "parentUrl": "https://www.texascapitalbank.com/",
   "actions": {
-    "nav_personal_insurance": {
-      "url": "https://www.jewelersmutual.com/jewelry-engagement-ring-insurance-quote"
+    "nav_savings": {
+      "url": "https://www.texascapitalbank.com/personal-banking/savings"
     },
-    "nav_personal_get_quote": {
-      "url": "https://my.jewelersmutual.com/jewelry-insurance-quote-apply/"
+    "nav_checking": {
+      "url": "https://www.texascapitalbank.com/personal-banking/checking"
     },
-    "nav_personal_bill_pay": {
-      "url": "https://my.jewelersmutual.com/QuickBillPay"
-    },
-    "nav_personal_claims_general": {
-      "url": "https://www.jewelersmutual.com/jewelry-insurance-claims"
-    },
-    "nav_personal_start_claim": {
-      "url": "https://policy.jewelersmutual.com/unauth"
-    },
-    "nav_personal_business_insurance": {
-      "url": "https://www.jewelersmutual.com/jewelry-business-jewelers-block-bop-insurance"
-    },
-    "nav_personal_business_claims": {
-      "url": "https://www.jewelersmutual.com/jewelry-business-claims"
+    "nav_money_market": {
+      "url": "https://www.texascapitalbank.com/personal-banking/money-market"
     }
   }
 }
