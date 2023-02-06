@@ -98,9 +98,15 @@ function receiveMessage(e, data) {
     // if (e.origin !== originUrl)
     //     console.log('Hit return in receiveMesage')
     //     return;
-    let actionUrl = jsonData.actions[action].url;
-    loadiFrame(actionUrl);
-    console.log('Sent URL to chat frame')
+    if (action.includes("nav") {
+        console.log("Loading navigation element");
+        let actionUrl = jsonData.actions[action].url;
+        loadiFrame(actionUrl);
+        console.log('Sent URL to chat frame')
+    }
+    else {
+        console.log("No action found");
+    }
 }
 
 function sendMessage(data) {
