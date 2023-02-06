@@ -98,7 +98,7 @@ function receiveMessage(e, data) {
     // if (e.origin !== originUrl)
     //     console.log('Hit return in receiveMesage')
     //     return;
-    if (action.includes("nav") {
+    if (action.includes("nav")) {
         console.log("Loading navigation element");
         let actionUrl = jsonData.actions[action].url;
         loadiFrame(actionUrl);
