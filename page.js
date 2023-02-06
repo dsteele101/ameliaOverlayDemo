@@ -93,8 +93,8 @@ function toggleChatOverlay() {
 }
 
 function receiveMessage(e, data) {
-    console.log('Received message ' + e.data.action)
-    let action = e.data.action
+    console.log('Received message ' + e.data.action);
+    let action = e.data.action;
     // if (e.origin !== originUrl)
     //     console.log('Hit return in receiveMesage')
     //     return;
@@ -102,7 +102,7 @@ function receiveMessage(e, data) {
         console.log("Loading navigation element");
         let actionUrl = jsonData.actions[action].url;
         loadiFrame(actionUrl);
-        console.log('Sent URL to chat frame')
+        console.log('Sent URL to chat frame');
     }
     else {
         console.log("No action found");
