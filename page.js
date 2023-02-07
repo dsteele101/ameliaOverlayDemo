@@ -92,6 +92,10 @@ function toggleChatOverlay() {
     }
 }
 
+function getElementByXpath(path) {
+  return document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+}
+
 function receiveMessage(e, data) {
     console.log('Received message ' + e.data.action);
     let action = e.data.action;
@@ -106,9 +110,11 @@ function receiveMessage(e, data) {
     }
     else if (action.includes("insert")) {
         console.log("Inserting element");
-        console.log(document.querySelectorAll('*[id]'))
-        var text = document.getElementById('email');
-        text.value += 'derrick@steele.com';
+//         console.log(document.querySelectorAll('*[id]'))
+//         var text = document.getElementById('email');
+        var targetPath = '/html/body/div[1]/div/div/div[2]/div/article/div/form/div[1]/div/input';
+        var target = getElementByXpath(targetPath);
+        target.value += 'derrick@steele.com';
     }
     else {
         console.log("No action found");
