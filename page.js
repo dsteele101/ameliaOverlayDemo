@@ -104,6 +104,11 @@ function receiveMessage(e, data) {
         loadiFrame(actionUrl);
         console.log('Sent URL to chat frame');
     }
+    else if (action.includes("insert")) {
+        console.log("Inserting element");
+        var text = document.getElementById('email');
+        text.value += 'derrick@steele.com';
+    }
     else {
         console.log("No action found");
     }
