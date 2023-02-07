@@ -114,6 +114,7 @@ function receiveMessage(e, data) {
 //         var text = document.getElementById('email');
         var targetPath = '/html/body/div[1]/div/div/div[2]/div/article/div/form/div[1]/div/input';
         var target = getElementByXpath(targetPath);
+        console.log(target);
         target.value += 'derrick@steele.com';
     }
     else {
