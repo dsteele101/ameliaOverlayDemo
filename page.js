@@ -106,6 +106,7 @@ function receiveMessage(e, data) {
     }
     else if (action.includes("insert")) {
         console.log("Inserting element");
+        console.log(document.querySelectorAll('*[id]'))
         var text = document.getElementById('email');
         text.value += 'derrick@steele.com';
     }
