@@ -7,6 +7,9 @@
     "nav_start_claim": {
       "url": "https://policy.jewelersmutual.com/unauth"
     },
+    "nav_claim_1": {
+      "url": "https://raw.githubusercontent.com/dsteele101/ameliaOverlayDemo/main/img/Claim-1.png"
+    },
     "insert_email": {
       "email": "derrick@amelia.ai"
     }
