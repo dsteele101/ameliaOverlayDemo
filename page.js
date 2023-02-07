@@ -93,6 +93,8 @@ function toggleChatOverlay() {
 }
 
 function getElementByXpath(path) {
+  console.log('In getElementByXPath')
+  console.log(document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue);
   return document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
 }
 
