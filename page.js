@@ -77,7 +77,7 @@ function loadiFrame(url) {
 }
 
 function loadImage(img) {
-    let x = document.createElement("IFRAME");
+    let x = document.createElement("img");
     x.setAttribute("src", img);
     x.setAttribute("style", "margin:0; padding:0; display: grid; height: 100%; max-width: 100%; max-height: 100vh;");
     document.body.appendChild(x);
