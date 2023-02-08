@@ -76,6 +76,13 @@ function loadiFrame(url) {
     document.body.appendChild(x);
 }
 
+function loadImage(img) {
+    let x = document.createElement("IFRAME");
+    x.setAttribute("src", img);
+    x.setAttribute("style", "margin:0; padding:0; display: grid; height: 100%; max-width: 100%; max-height: 100vh;");
+    document.body.appendChild(x);
+}
+
 function toggleChatOverlay() {
     /**
      * Toggles opening and closing of the chatOverlay
@@ -109,6 +116,12 @@ function receiveMessage(e, data) {
         let actionUrl = jsonData.actions[action].url;
         loadiFrame(actionUrl);
         console.log('Sent URL to chat frame');
+    }
+    else if (action.includes("img")) {
+        console.log("Inserting image");
+        let actionUrl = jsonData.actions(action).url;
+        loadImage(actionUrl);
+        console.log('Sent image');
     }
     else if (action.includes("insert")) {
         console.log("Inserting element");
