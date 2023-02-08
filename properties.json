@@ -10,6 +10,18 @@
     "img_claim_1": {
       "url": "https://raw.githubusercontent.com/dsteele101/ameliaOverlayDemo/main/img/claim_001.png"
     },
+    "img_claim_2": {
+      "url": "https://raw.githubusercontent.com/dsteele101/ameliaOverlayDemo/main/img/claim_002.png"
+    },
+    "img_claim_3": {
+      "url": "https://raw.githubusercontent.com/dsteele101/ameliaOverlayDemo/main/img/claim_003.png"
+    },
+    "img_claim_4": {
+      "url": "https://raw.githubusercontent.com/dsteele101/ameliaOverlayDemo/main/img/claim_004.png"
+    },
+    "img_claim_5": {
+      "url": "https://raw.githubusercontent.com/dsteele101/ameliaOverlayDemo/main/img/claim_005.png"
+    },
     "insert_email": {
       "email": "derrick@amelia.ai"
     }
