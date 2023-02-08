@@ -119,7 +119,7 @@ function receiveMessage(e, data) {
     }
     else if (action.includes("img")) {
         console.log("Inserting image");
-        let actionUrl = jsonData.actions(action).url;
+        let actionUrl = jsonData.actions[action].url;
         loadImage(actionUrl);
         console.log('Sent image');
     }
