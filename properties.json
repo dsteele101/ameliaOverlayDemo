@@ -2,7 +2,7 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
-  "parentUrl": "https://www.usbank.com/index.html",
+  "parentUrl": "https://www.coinbase.com",
   "actions": {
     "nav_wallet": {
       "url": "https://www.coinbase.com/wallet"
