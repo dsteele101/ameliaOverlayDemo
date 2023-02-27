@@ -70,10 +70,20 @@ function closeChatOverlay(receiverElem, imgElemOpen, imgElemClose) {
 }
 
 function loadiFrame(url) {
+    let selector = document.querySelector("#tempiFrame")
+    if (selector !== null){
+        console.log("found it")
+        selector.parentNode.removeChild(selector);
+
+    }
+    else{
+        console.log("did not find it")
+        document.querySelector("#parentFrame").style.opacity = 0;
+    }
     let x = document.createElement("IFRAME");
     x.setAttribute("src", url);
+    x.setAttribute("id", "tempiFrame");
     x.setAttribute("style", "position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:99;");
-    document.querySelector("#parentFrame").style.opacity = 0;
     document.body.appendChild(x);
 }
 
