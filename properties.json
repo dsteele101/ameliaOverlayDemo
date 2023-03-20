@@ -1,7 +1,7 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele&city=San%20Antonio",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele&city=San%20Antonio",
   "parentUrl": "https://www.usbank.com/index.html",
   "actions": {
     "nav_debit_cards": {
