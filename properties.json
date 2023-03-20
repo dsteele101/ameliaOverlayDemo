@@ -2,13 +2,16 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
-  "parentUrl": "https://www.mortgageonefunding.com/",
+  "parentUrl": "https://www.usbank.com/index.html",
   "actions": {
-    "nav_loan_programs": {
-      "url": "https://www.mortgageonefunding.com/loan-programs/"
+    "nav_debit_cards": {
+      "url": "https://www.usbank.com/bank-accounts/checking-accounts/debit-cards.html"
     },
-    "nav_income_qualify_calculator": {
-      "url": "https://www.mortgageonefunding.com/mortgage-calculators/?calc=income"
+    "nav_boat_loans": {
+      "url": "https://www.usbank.com/vehicle-loans/boat-loans-and-boat-financing.html"
+    },
+    "nav_fund_education": {
+      "url": "https://www.usbank.com/investing/financial-goals/529-plans.html"
     }
   }
 }
