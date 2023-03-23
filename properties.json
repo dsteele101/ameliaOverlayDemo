@@ -1,17 +1,20 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele&city=San%20Antonio",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele&city=San%20Antonio",
-  "parentUrl": "https://www.usbank.com/index.html",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
+  "parentUrl": "https://community.cvent.com/home",
   "actions": {
-    "nav_debit_cards": {
-      "url": "https://www.usbank.com/bank-accounts/checking-accounts/debit-cards.html"
+    "nav_creating_sessions": {
+      "url": "https://support.cvent.com/s/communityarticle/Creating-Sessions"
     },
-    "nav_boat_loans": {
-      "url": "https://www.usbank.com/vehicle-loans/boat-loans-and-boat-financing.html"
+    "nav_refunding_transaction": {
+      "url": "https://support.cvent.com/s/communityarticle/Refunding-a-Transaction"
     },
-    "nav_fund_education": {
-      "url": "https://www.usbank.com/investing/financial-goals/529-plans.html"
+    "nav_refunding_item_wasnt_automatically_refunded": {
+      "url": "https://support.cvent.com/s/communityarticle/Refunding-an-Item-That-Wasn-t-Automatically-Refunded"
+    },
+    "nav_pulling_registration_details": {
+      "url": "https://support.cvent.com/s/communityarticle/Pulling-All-Registration-Details-in-One-Report"
     }
   }
 }
