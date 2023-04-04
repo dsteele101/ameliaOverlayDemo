@@ -1,14 +1,17 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
-  "parentUrl": "https://www.questrade.com/home",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele&city=San%20Antonio",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele&city=San%20Antonio",
+  "parentUrl": "https://www.usbank.com/index.html",
   "actions": {
-    "nav_account_types": {
-      "url": "https://www.questrade.com/self-directed-investing/account-types"
+    "nav_debit_cards": {
+      "url": "https://www.usbank.com/bank-accounts/checking-accounts/debit-cards.html"
     },
-    "nav_etf": {
-      "url": "https://www.questrade.com/questwealth-portfolios/etf-portfolios"
+    "nav_boat_loans": {
+      "url": "https://www.usbank.com/vehicle-loans/boat-loans-and-boat-financing.html"
+    },
+    "nav_fund_education": {
+      "url": "https://www.usbank.com/investing/financial-goals/529-plans.html"
     }
   }
 }
