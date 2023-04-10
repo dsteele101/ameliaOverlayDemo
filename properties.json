@@ -12,6 +12,9 @@
     },
     "nav_fund_education": {
       "url": "https://www.usbank.com/investing/financial-goals/529-plans.html"
+    },
+    "nav_online_investing": {
+      "url": "https://www.usbank.com/investing/online-investing.html"
     }
   }
 }
