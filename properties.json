@@ -2,7 +2,7 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
-  "parentUrl": "https://unitedfcu.com/products-and-services/banking/checking-accounts/compare-checking-accounts",
+  "parentUrl": "https://unitedfcu.com/us/about-us/about-united",
   "actions": {
     "nav_credit_cards": {
       "url": "https://unitedfcu.com/products-and-services/cards/compare-credit-cards"
