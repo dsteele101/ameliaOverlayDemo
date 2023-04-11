@@ -1,20 +1,20 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele&city=San%20Antonio",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele&city=San%20Antonio",
-  "parentUrl": "https://www.usbank.com/index.html",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
+  "parentUrl": "https://unitedfcu.com/",
   "actions": {
-    "nav_debit_cards": {
-      "url": "https://www.usbank.com/bank-accounts/checking-accounts/debit-cards.html"
+    "nav_credit_cards": {
+      "url": "https://unitedfcu.com/products-and-services/cards/compare-credit-cards"
     },
-    "nav_boat_loans": {
-      "url": "https://www.usbank.com/vehicle-loans/boat-loans-and-boat-financing.html"
+    "nav_hsa": {
+      "url": "https://unitedfcu.com/products-and-services/banking/savings-accounts/health-savings-account"
     },
-    "nav_fund_education": {
-      "url": "https://www.usbank.com/investing/financial-goals/529-plans.html"
+    "nav_education_loans": {
+      "url": "https://unitedfcu.com/products-and-services/loans/education-loan"
     },
     "nav_online_investing": {
-      "url": "https://www.usbank.com/investing/online-investing.html"
+      "url": "https://unitedfcu.com/invest-and-insure/investments/access-your-uip-account"
     }
   }
 }
