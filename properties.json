@@ -2,19 +2,16 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
-  "parentUrl": "https://unitedfcu.com/us/about-us/about-united",
+  "parentUrl": "https://writer.com/",
   "actions": {
-    "nav_credit_cards": {
-      "url": "https://unitedfcu.com/products-and-services/cards/compare-credit-cards"
+    "nav_healthcare": {
+      "url": "https://writer.com/use-cases/healthcare/"
     },
-    "nav_hsa": {
-      "url": "https://unitedfcu.com/products-and-services/banking/savings-accounts/health-savings-account"
+    "nav_pricing": {
+      "url": "https://writer.com/plans/"
     },
-    "nav_education_loans": {
-      "url": "https://unitedfcu.com/products-and-services/loans/education-loan"
-    },
-    "nav_online_investing": {
-      "url": "https://unitedfcu.com/invest-and-insure/investments/access-your-uip-account"
+    "nav_integration_word": {
+      "url": "https://writer.com/product/microsoft-word/"
     }
   }
 }
