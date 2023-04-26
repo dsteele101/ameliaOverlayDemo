@@ -2,16 +2,16 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
-  "parentUrl": "https://writer.com/",
+  "parentUrl": "https://capitalone.com.com/",
   "actions": {
-    "nav_healthcare": {
-      "url": "https://writer.com/use-cases/healthcare/"
+    "nav_online-performance-savings-account": {
+      "url": "https://www.capitalone.com/bank/savings-accounts/online-performance-savings-account/"
     },
-    "nav_pricing": {
-      "url": "https://writer.com/plans/"
+    "nav_kids-savings-account": {
+      "url": "https://www.capitalone.com/bank/savings-accounts/kids-savings-account/"
     },
-    "nav_integration_word": {
-      "url": "https://writer.com/product/microsoft-word/"
+    "nav_travel-and-miles": {
+      "url": "https://www.capitalone.com/credit-cards/travel-and-miles/"
     }
   }
 }
