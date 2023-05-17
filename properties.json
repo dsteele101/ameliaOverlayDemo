@@ -1,8 +1,8 @@
 {
-  "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
-  "parentUrl": "https://capitalone.com/",
+  "originUrl": "https://uber.demo.amelia.com/",
+  "ameliaUrl": "https://uber.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=uber",
+  "chatUrl": "https://uber.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=uber",
+  "parentUrl": "https://www.ubereats.com/",
   "actions": {
     "nav_online-performance-savings-account": {
       "url": "https://www.capitalone.com/bank/savings-accounts/online-performance-savings-account/"
