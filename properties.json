@@ -1,17 +1,17 @@
 {
-  "originUrl": "https://uber.demo.amelia.com/",
-  "ameliaUrl": "https://uber.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=uber",
-  "chatUrl": "https://uber.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=uber",
-  "parentUrl": "https://www.ubereats.com/",
+  "originUrl": "https://us.demo.amelia.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
+  "parentUrl": "https://www.conga.com/",
   "actions": {
-    "nav_online-performance-savings-account": {
-      "url": "https://www.capitalone.com/bank/savings-accounts/online-performance-savings-account/"
+    "nav_conga-sign": {
+      "url": "https://conga.com/products/esignature/conga-sign"
     },
-    "nav_kids-savings-account": {
-      "url": "https://www.capitalone.com/bank/savings-accounts/kids-savings-account/"
+    "nav_conga-composer": {
+      "url": "https://conga.com/products/conga-composer"
     },
-    "nav_travel-and-miles": {
-      "url": "https://www.capitalone.com/credit-cards/travel-and-miles/"
+    "nav_salesforce-optimizations": {
+      "url": "https://conga.com/products/salesforce-optimizations"
     }
   }
 }
