@@ -1,8 +1,8 @@
 {
-  "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
-  "parentUrl": "https://www.conga.com/",
+  "originUrl": "https://bcbsma.dev.amelia.com/",
+  "ameliaUrl": "https://bcbsma.dev.amelia.com/Amelia/ui/BCBSMAdev?&domainCode=bcbsma_dev",
+  "chatUrl": "https://bcbsma.dev.amelia.com/Amelia/ui/BCBSMAdev?&domainCode=bcbsma_dev",
+  "parentUrl": "https://www.bcbs.com/",
   "actions": {
     "nav_conga-sign": {
       "url": "https://conga.com/products/esignature/conga-sign"
