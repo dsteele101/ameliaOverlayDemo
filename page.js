@@ -1,4 +1,4 @@
-import data from './properties.json' assert {type: 'json'};
+import data from './properties.json' with {type: 'json'};
 
 console.log(data)
 data.innerText = JSON.stringify(data, null, 2);
